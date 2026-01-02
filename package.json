@@ -232,7 +232,7 @@
     "@types/uuid": "^3.4.10",
     "tslint": "^5.20.1",
     "typescript": "^3.9.10",
-    "vsce": "^1.103.1",
+    "vsce": "^2.15.0",
     "vscode": "^1.1.37"
   },
   "dependencies": {
